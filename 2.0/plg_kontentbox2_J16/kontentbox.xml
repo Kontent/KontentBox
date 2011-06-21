@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.6" type="plugin" group="content" method="upgrade">
+	<name>Content - KontentBox</name>
+	<author>Kontent Design</author>
+	<creationDate>November 2008</creationDate>
+	<copyright>(C) 2008-2011 Kontent Design. All rights reserved.</copyright>
+	<authorUrl>http://www.kontentdesign.com</authorUrl>
+	<license>This Joomla plug-in is licensed GNU/GPL http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL. MediaBox and Slimbox are free software released under MIT License. http://www.opensource.org/licenses/mit-license.php</license>
+	<authorUrl>http://www.kontentdesign.com</authorUrl>
+	<version>2.0 (Joomla 1.6)</version>
+	<description>
+		<![CDATA[
+				<style type="text/css">
+					.kontentbox-install {
+						text-align:center;
+						width:90%;
+					}
+					.kontentbox img {
+						margin-bottom: 10px;
+					}
+					table.adminform .kontentbox-config {
+						display:none;
+					}
+					#module-form .mod-desc .kontentbox-install {
+						display:none;
+					}
+				</style>
+				<div class="kontentbox-install">
+					<div class="kontentbox">
+						<a href="http://extensions.kontentdesign.com/extensions/kontent-box" target="_blank"><img style="float:none" border="0" src="http://extensions.kontentdesign.com/images/install/icon_kontentbox.png" alt="KontentTweet" /></a>
+					</div>
+					<div class="kontentdesc"><p>KontentBox: Display all your website media in a slick lightbox</p></div>
+					<div class="kontentext">
+						<a href="http://extensions.kontentdesign.com" target="_blank"><img style="float:none"  border="0" src="http://extensions.kontentdesign.com/images/install/logo_kontentextensions.png" alt="Kontent Extensions" /></a>
+					</div>
+				</div>
+				<div class="kontentbox-config">
+					<p><a href="http://extensions.kontentdesign.com/extensions/kontent-box" target="_blank">KontentBox</a>: KontentBox for Joomla 1.6 combines the popular Lightbox and Mediabox to play all media formats, including images, MP3, WAV, YouTube, Flickr, Google Video, MetaCafe, MySpace, Revver, Seesmic, Veoh, Viddler, Vimeo, 12seconds.tv, Flash animation, FLV video, Quicktime video, and Windows Media Video. It is also supported on portable devices like the iPad.<br /><br /> More information at <a href="http://extensions.kontentdesign.com" target="_blank">Kontent Extensions</a></p>
+				</div>
+			]]>  		
+  	</description>
+	<files>
+		<filename plugin="kontentbox">kontentbox.php</filename>
+		<filename>index.html</filename>
+		<folder>kontentbox</folder>
+	</files>
+	<fieldset>
+	</fieldset>
+</extension>

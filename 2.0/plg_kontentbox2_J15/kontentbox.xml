@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="content" method="upgrade">
+	<name>Content - KontentBox</name>
+	<author>Kontent Design</author>
+	<creationDate>November 2008</creationDate>
+	<copyright>(C) 2008-2011 Kontent Design. All rights reserved.</copyright>
+	<license>This Joomla plug-in is licensed GNU/GPL http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL. MediaBox and Slimbox are free software released under MIT License. http://www.opensource.org/licenses/mit-license.php</license>
+	<authorUrl>http://www.kontentdesign.com</authorUrl>
+	<version>2.0 (Joomla 1.5)</version>
+	<description>KontentBox for Joomla 1.5 combines the popular Lightbox and Mediabox to play all media formats, including images, MP3, WAV, YouTube, Flickr, Google Video, MetaCafe, MySpace, Revver, Seesmic, Veoh, Viddler, Vimeo, 12seconds.tv, Flash animation, FLV video, Quicktime video, and Windows Media Video. It is also supported on portable devices like the iPad.</description>
+	<files>
+		<filename plugin="kontentbox">kontentbox.php</filename>
+		<filename>index.html</filename>
+		<folder>kontentbox</folder>
+	</files>
+	<params>
+	</params>
+</install>
