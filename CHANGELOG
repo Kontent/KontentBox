@@ -1,4 +1,29 @@
-Karpenter is a web development framework for rapid development of 
-websites and Joomla templates. Karpenter works the way you do, 
-giving you a choice of over 40 different libraries and plug-ins 
-to customize and enhance your website.
+<?php
+defined( '_JEXEC' ) or die( 'Restricted access' );
+/**
+ * KontentBox - The media lightbox for Joomla
+ * @package 	KontentBox
+ * @copyright 	(C) 2011 Kontent Design. All rights reserved.
+ * @license 	http://www.gnu.org/copyleft/gpl.html GNU/GPL
+ * @link 		http://extensions.kontentdesign.com
+ */
+?>
+<!--
+
+Changelog
+------------
+
+Legend:
+
+* -> Security Fix
+# -> Bug Fix
++ -> Addition
+^ -> Change
+- -> Removed
+! -> Note
+
+-------------
+ 
+13-Jul-2011 Severdia
+# Fixed bug in path
+
